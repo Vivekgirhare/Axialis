@@ -1,4 +1,4 @@
-# Sparks Foundation - Basic Banking System
+# Axialis - Basic Banking System
 
 ## Index
 - [Description](#Description)
