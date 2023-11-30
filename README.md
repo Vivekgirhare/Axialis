@@ -7,7 +7,7 @@
 - Screenshort
 
 ## Description
-- This a Internship project by Sparks Foundation.
+- This a Internship project by Axialis.
 - This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
 - Details of Customers are maintained as `Name`, `Email`, `Amount` are fields.
 - Transaction is done through PDO, If some Error occured while Transaction changes made to table is Rollback(Reverted).  
@@ -15,7 +15,7 @@
 ## First Time Installation
 - Clone the Repository.
 - Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to XAMP installation Directory and then inside htdocs folder.
+- Copy this folder(Axialis) to XAMP installation Directory and then inside htdocs folder.
 
 ```
 For Example
